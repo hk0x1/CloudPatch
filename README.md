@@ -6,14 +6,14 @@ CloudPatch is a CLI-based AWS security hardening tool built for **blue teams**, 
 
 ## 🔍 What It Does
 
-✅ **EC2 Instance Audits**: Flag outdated AMIs (>90 days), suggest rebuilds
-✅ **VPC Check**: Detect and optionally delete default VPCs
-✅ **EBS Volume Scan**: Detect unencrypted volumes
-✅ **RDS Audit**: Flag unencrypted RDS instances
-✅ **Lambda Review**: Identify environment variables that may leak secrets
-🤖 **GPT Summary**: Uses ChatGPT to summarize and suggest actions
-🌐 **Multi-Account Support**: Scan across your AWS Org using assumed roles
-🔧 **Remediation Mode**: Use `--remediate` flag to take corrective action
+- ✅ **EC2 Instance Audits**: Flag outdated AMIs (>90 days), suggest rebuilds
+- ✅ **VPC Check**: Detect and optionally delete default VPCs
+- ✅ **EBS Volume Scan**: Detect unencrypted volumes
+- ✅ **RDS Audit**: Flag unencrypted RDS instances
+- ✅ **Lambda Review**: Identify environment variables that may leak secrets
+- 🤖 **GPT Summary**: Uses ChatGPT to summarize and suggest actions
+- 🌐 **Multi-Account Support**: Scan across your AWS Org using assumed roles
+- 🔧 **Remediation Mode**: Use `--remediate` flag to take corrective action
 
 
 
