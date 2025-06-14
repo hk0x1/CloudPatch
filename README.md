@@ -1,6 +1,6 @@
-# 🛠️ CloudPatch CLI
+# 🛠️ CloudPatch
 
-CloudPatch is an industrial-grade, CLI-based AWS security hardening tool built for **blue teams**, **DevSecOps pipelines**, and **pre-deployment audit workflows**. It scans for misconfigurations across core AWS services and optionally remediates issues — with support for multi-account AWS orgs and GPT-4 summaries.
+CloudPatch is a CLI-based AWS security hardening tool built for **blue teams**, **DevSecOps pipelines**, and **pre-deployment audit workflows**. It scans for misconfigurations across core AWS services and optionally remediates issues — with support for multi-account AWS orgs and GPT-4 summaries.
 
 
 
