@@ -24,6 +24,4 @@ CloudPatch is an industrial-grade, CLI-based AWS security hardening tool built f
 ```bash
 pip install boto3 openai python-dotenv
 
-Run the tool 
-
 python cloudpatch_cli.py --region us-east-1 --check all --gpt-summary
